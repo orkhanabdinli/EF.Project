@@ -5,7 +5,7 @@
 namespace ConsoleApp.Migrations
 {
     /// <inheritdoc />
-    public partial class CreatedGroupAndStudentTables : Migration
+    public partial class CreatedGroupAndStudenTables : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

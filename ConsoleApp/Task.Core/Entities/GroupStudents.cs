@@ -6,9 +6,4 @@ public class GroupStudents
     public int StudentId { get; set; }
     public Group Group { get; set; } = null!;
     public Student Student { get; set; } = null!;
-    public GroupStudents(int groupId, int studentId) 
-    {
-        GroupId = groupId;
-        StudentId = studentId;
-    }
 }

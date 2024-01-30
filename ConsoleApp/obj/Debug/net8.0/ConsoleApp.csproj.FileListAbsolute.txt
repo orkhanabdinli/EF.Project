@@ -392,3 +392,4 @@ C:\Users\hp\Desktop\TaskGroup\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
 C:\Users\hp\Desktop\TaskGroup\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\hp\Desktop\TaskGroup\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\hp\Desktop\TaskGroup\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\hp\Desktop\TaskGroup\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json

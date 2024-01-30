@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ConsoleApp.Migrations
 {
     [DbContext(typeof(TaskDbContext))]
-    [Migration("20240130054950_CreatedGroupAndStudentTables")]
-    partial class CreatedGroupAndStudentTables
+    [Migration("20240130073515_CreatedGroupAndStudenTables")]
+    partial class CreatedGroupAndStudenTables
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
